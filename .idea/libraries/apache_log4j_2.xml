@@ -7,7 +7,7 @@
     <SOURCES>
       <root url="file://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin" />
     </SOURCES>
-    <jarDirectory url="file://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin" recursive="false" />
-    <jarDirectory url="file://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin" recursive="true" />
+    <jarDirectory url="file://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin" recursive="true" type="SOURCES" />
   </library>
 </component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activityLifeCycleTest/activityLifeCycleTest.iml" filepath="$PROJECT_DIR$/activityLifeCycleTest/activityLifeCycleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_struts/basic_struts.iml" filepath="$PROJECT_DIR$/basic_struts/basic_struts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapp/myapp.iml" filepath="$PROJECT_DIR$/myapp/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH2/src/src.iml" filepath="$PROJECT_DIR$/SSH2/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss/ss.iml" filepath="$PROJECT_DIR$/ss/ss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh/ssh.iml" filepath="$PROJECT_DIR$/ssh/ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts2/struts2.iml" filepath="$PROJECT_DIR$/struts2/struts2.iml" />
+    </modules>
+  </component>
+</project>

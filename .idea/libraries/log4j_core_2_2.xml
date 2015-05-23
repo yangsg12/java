@@ -2,8 +2,38 @@
   <library name="log4j-core-2.2">
     <CLASSES>
       <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-core-2.2.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-api-2.2.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-api-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-core-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-1.2-api-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-flume-ng-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-iostreams-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jcl-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jmx-gui-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jul-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-nosql-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-slf4j-impl-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-taglib-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-to-slf4j-2.2-javadoc.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-web-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-api-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-core-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-1.2-api-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-core-2.2-tests.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-flume-ng-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-iostreams-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jcl-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jmx-gui-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-jul-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-nosql-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-slf4j-impl-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-taglib-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-to-slf4j-2.2-sources.jar!/" />
+      <root url="jar://C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-web-2.2-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

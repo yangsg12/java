@@ -10,6 +10,10 @@
         <option name="name" value="app: com.example.activityLifeCycleTest" />
         <option name="packageNamePattern" value="com.example.activityLifeCycleTest" />
       </filter>
+      <filter>
+        <option name="name" value="app: com.example.ListViewTest" />
+        <option name="packageNamePattern" value="com.example.ListViewTest" />
+      </filter>
     </filters>
   </component>
   <component name="AndroidLayouts">
@@ -19,7 +23,7 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.activityLifeCycleTest" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.ListViewTest" />
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/think_in_java/concurrency/ListComparisons.java" line="7" />
@@ -27,53 +31,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772eeac8-ad2b-4f36-866c-8abb0b093f03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/drawable-hdpi/actionbar_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/drawable-hdpi/ic_action_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/ArticleFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/res/drawable-hdpi/banana_pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/res/drawable-hdpi/orange_pic.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/enumerated/CarWash.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head_first/factory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/DialogActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/DisplayMessageActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/FeedReaderContract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/FeedReaderDbHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/FirstActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/HeadlinesFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/Fruit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/FruitAdapter.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java/log4j/HelloWorld.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/generic/InheritBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/ListViewTest.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/generic/Lists.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/generic/Log4jTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/generic/Log4jTest2.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/generic/Log4jTest3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/NormalActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/think_in_java/enumerated/PostOffice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/SecondActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head_first/singleton/Singleton.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head_first/singleton/lazy/Singleton.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head_first/aop/SomeHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/ThirdActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/activityLifeCycleTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/activity_display_message.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/apache_log4j_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/article_view.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/res/layout/dialog_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/first_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewTest/res/layout/fruit_item.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/menu/main_activity_actions.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/news_articles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/res/layout/normal_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/second_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/values-zh/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/values/themes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/res/layout/third_layout.xml" />
+      <change type="DELETED" beforePath="C:\Users\Yang\IdeaProjects\java\myapp\libs\android-support-v4.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/FirstActivity$1.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/FirstActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/FirstActivity.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/FirstActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity$1.class" afterPath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity$2.class" afterPath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity.class" afterPath="$PROJECT_DIR$/out/production/activityLifeCycleTest/com/example/activityLifeCycleTest/MyActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/MyActivity.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/MyActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$id.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$layout.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$menu.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$string.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/SecondActivity.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/SecondActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/ThirdActivity.class" afterPath="$PROJECT_DIR$/out/production/myapp/com/example/myapp/ThirdActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/activityLifeCycleTest/activityLifeCycleTest.apk" afterPath="$PROJECT_DIR$/out/production/activityLifeCycleTest/activityLifeCycleTest.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/AndroidManifest.xml" afterPath="$PROJECT_DIR$/myapp/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activityLifeCycleTest/gen/com/example/activityLifeCycleTest/BuildConfig.java" afterPath="$PROJECT_DIR$/activityLifeCycleTest/gen/com/example/activityLifeCycleTest/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/gen/com/example/myapp/BuildConfig.java" afterPath="$PROJECT_DIR$/myapp/gen/com/example/myapp/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java" afterPath="$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/src/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/myapp.iml" afterPath="$PROJECT_DIR$/myapp/myapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SSH2/src/src.iml" afterPath="$PROJECT_DIR$/SSH2/src/src.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/myapp/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/res/layout/main.xml" afterPath="$PROJECT_DIR$/myapp/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="dc2809e5-f20b-440b-a801-19838e988297" name="Rejected commit: Default" comment="在无锡图书馆敲的，还他妈下雪了." />
     <ignored path="java.iws" />
@@ -286,11 +287,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/res/layout/main.xml">
+      <file leaf-file-name="title.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/res/layout/title.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.625" vertical-offset="146" max-vertical-offset="609">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state vertical-scroll-proportion="-1.3125" vertical-offset="0" max-vertical-offset="861">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -299,79 +300,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml">
+      <file leaf-file-name="TitleLayout.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/TitleLayout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="651">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/MyActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1953">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="966">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
-                <element signature="e#1026#1264#0" expanded="true" />
-                <element signature="e#1263#1264#0" expanded="true" />
-                <element signature="e#1315#1553#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#732#894#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#935#1140#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myapp/AndroidManifest.xml">
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6347826" vertical-offset="853" max-vertical-offset="1428">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.21875" vertical-offset="0" max-vertical-offset="357">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activityLifeCycleTest.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/activityLifeCycleTest.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Absent.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/My Program Files/Develope Tools/guava/guava-18.0-sources.jar!/com/google/common/base/Absent.java">
+      <file leaf-file-name="MyActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-42.84" vertical-offset="0" max-vertical-offset="1323">
-              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.455" vertical-offset="441" max-vertical-offset="1260">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
-                <element signature="e#2452#2453#0" expanded="true" />
-                <element signature="e#2477#2478#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#459#466#0" expanded="true" />
+                <element signature="e#1131#1456#0" expanded="true" />
+                <element signature="e#1455#1456#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overview-tree.html" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/My Program Files/Develope Tools/guava/guava-18.0-javadoc.jar!/overview-tree.html">
+      <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="84.0" vertical-offset="2331" max-vertical-offset="18858">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="148" max-vertical-offset="588">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NormalActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/NormalActivity.java">
+      <file leaf-file-name="fruit_item.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/res/layout/fruit_item.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="504">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state vertical-scroll-proportion="-5.90625" vertical-offset="0" max-vertical-offset="483">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/FruitAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="819" max-vertical-offset="1407">
+              <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -379,23 +384,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/gen/com/example/activityLifeCycleTest/BuildConfig.java">
+      <file leaf-file-name="R.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/gen/com/example/ListViewTest/R.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
               <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="R.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/gen/com/example/activityLifeCycleTest/R.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewTest/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="903">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -431,15 +449,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/menu/Meal.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/SecurityCategory.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/menu/Meal2.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/EnumSets.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/AlarmPoints.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/EnumMaps.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/CarWash.java" />
-        <option value="$PROJECT_DIR$/src/think_in_java/enumerated/PostOffice.java" />
-        <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/src/think_in_java/generic/Lists.java" />
         <option value="$PROJECT_DIR$/src/head_first/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/head_first/singleton/lazy/Singleton.java" />
@@ -453,15 +462,12 @@
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/FirstAcitivity.java" />
         <option value="$PROJECT_DIR$/myapp/res/menu/main.xml" />
         <option value="$PROJECT_DIR$/myapp/res/layout/second_layout.xml" />
-        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/ThirdActivity.java" />
         <option value="$PROJECT_DIR$/myapp/res/layout/third_layout.xml" />
-        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/SecondActivity.java" />
         <option value="$PROJECT_DIR$/src/think_in_java/generic/InheritBounds.java" />
         <option value="$PROJECT_DIR$/src/com/java/log4j/HelloWorld.java" />
         <option value="$PROJECT_DIR$/myapp/res/layout/first_layout.xml" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/DisplayMessageActivity.java" />
         <option value="$PROJECT_DIR$/myapp/res/layout/activity_display_message.xml" />
-        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/FirstActivity.java" />
         <option value="$PROJECT_DIR$/myapp/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/myapp/res/menu/main_activity_actions.xml" />
         <option value="$PROJECT_DIR$/myapp/res/values/themes.xml" />
@@ -469,7 +475,6 @@
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/ArticleFragment.java" />
         <option value="$PROJECT_DIR$/myapp/res/layout/news_articles.xml" />
         <option value="$PROJECT_DIR$/myapp/res/layout/article_view.xml" />
-        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/HeadlinesFragment.java" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/FeedReaderContract.java" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/FeedReaderDbHelper.java" />
@@ -477,11 +482,24 @@
         <option value="$PROJECT_DIR$/myapp/res/layout/dialog_layout.xml" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/NormalActivity.java" />
         <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/DialogActivity.java" />
-        <option value="$PROJECT_DIR$/myapp/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/activityLifeCycleTest/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/MyActivity.java" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/FirstActivity.java" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/SecondActivity.java" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/ThirdActivity.java" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java" />
         <option value="$PROJECT_DIR$/myapp/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/myapp/res/layout/title.xml" />
+        <option value="$PROJECT_DIR$/myapp/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/myapp/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/myapp/src/com/example/myapp/TitleLayout.java" />
+        <option value="$PROJECT_DIR$/ListViewTest/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/Fruit.java" />
+        <option value="$PROJECT_DIR$/ListViewTest/res/layout/fruit_item.xml" />
+        <option value="$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/FruitAdapter.java" />
+        <option value="$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/MyActivity.java" />
       </list>
     </option>
   </component>
@@ -551,10 +569,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -684,10 +701,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -763,11 +776,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -781,43 +790,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="log4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -825,7 +798,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -839,17 +812,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values-zh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -861,51 +830,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -927,25 +852,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
+              <option name="myItemId" value="ListViewTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -964,6 +871,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ListViewTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ListViewTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activityLifeCycleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activityLifeCycleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1017,7 +968,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
@@ -1031,7 +982,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="C:/My Program Files/Develope Tools/log4j/apache-log4j-2.2-bin/log4j-web-2.2.jar!/" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -1076,11 +1027,11 @@
       <recent name="com.java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yang\IdeaProjects\java\ListViewTest\res\drawable-hdpi" />
+      <recent name="C:\Users\Yang\IdeaProjects\java\myapp\res\drawable-hdpi" />
+      <recent name="C:\Users\Yang\IdeaProjects\java\myapp" />
       <recent name="C:\Users\Yang\IdeaProjects\java\myapp\libs" />
       <recent name="C:\Users\Yang\IdeaProjects\java\myapp\res\values-zh" />
-      <recent name="C:\Users\Yang\IdeaProjects\java\myapp\res\drawable-hdpi" />
-      <recent name="C:\Users\Yang\IdeaProjects\java\src\think_in_java" />
-      <recent name="C:\Users\Yang\IdeaProjects\java\src\concorrency_cookbook\synchronization\fair" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Yang\IdeaProjects\java\activityLifeCycleTest\res\layout" />
@@ -1089,51 +1040,7 @@
       <recent name="com.example.activityLifeCycleTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.activityLifeCycleTest">
-    <configuration default="false" name="Log4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="think_in_java.generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="think_in_java.generic.Log4jTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Log4jTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="think_in_java.generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="think_in_java.generic.Log4jTest2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Android Application.ListViewTest">
     <configuration default="false" name="EnumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1198,6 +1105,50 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BaseActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="myapp" />
+      <option name="ACTIVITY_CLASS" value="com.example.myapp.BaseActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="myapp" />
+      <option name="ACTIVITY_CLASS" value="com.example.myapp.MainActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1806,25 +1757,48 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="10">
+    <configuration default="false" name="ListViewTest" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="ListViewTest" />
+      <option name="ACTIVITY_CLASS" value="com.example.ListViewTest.MyActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="11">
       <item index="0" class="java.lang.String" itemvalue="Android Application.myapp" />
       <item index="1" class="java.lang.String" itemvalue="Jetty Server.Jetty" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
       <item index="3" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0.57" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Log4jTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Log4jTest2" />
-      <item index="6" class="java.lang.String" itemvalue="Application.EnumClass" />
-      <item index="7" class="java.lang.String" itemvalue="Android Application.FirstActivity" />
-      <item index="8" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="9" class="java.lang.String" itemvalue="Android Application.activityLifeCycleTest" />
+      <item index="4" class="java.lang.String" itemvalue="Android Application.activityLifeCycleTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.EnumClass" />
+      <item index="6" class="java.lang.String" itemvalue="Android Application.FirstActivity" />
+      <item index="7" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="8" class="java.lang.String" itemvalue="Android Application.BaseActivity" />
+      <item index="9" class="java.lang.String" itemvalue="Android Application.MainActivity" />
+      <item index="10" class="java.lang.String" itemvalue="Android Application.ListViewTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="1" class="java.lang.String" itemvalue="Android Application.FirstActivity" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EnumClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Log4jTest2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Log4jTest" />
+        <item index="0" class="java.lang.String" itemvalue="Android Application.MainActivity" />
+        <item index="1" class="java.lang.String" itemvalue="Android Application.BaseActivity" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="3" class="java.lang.String" itemvalue="Android Application.FirstActivity" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnumClass" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1904,6 +1878,7 @@
       <workItem from="1432085378013" duration="325000" />
       <workItem from="1432085872975" duration="954000" />
       <workItem from="1432088108846" duration="25128000" />
+      <workItem from="1432388807666" duration="14043000" />
     </task>
     <task id="LOCAL-00001" summary="up to Github.">
       <created>1422361472747</created>
@@ -1993,7 +1968,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="412945000" />
+    <option name="totallyTimeSpent" value="426988000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -2016,14 +1991,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="683" y="0" width="683" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25505444" sideWeight="0.46701846" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.39943343" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35041323" sideWeight="0.50073206" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38694993" sideWeight="0.5014641" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2036,21 +2011,20 @@
       <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29715303" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27465856" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39679715" sideWeight="0.49853587" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4059098" sideWeight="0.49853587" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27046263" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2690513" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1875969" sideWeight="0.4691689" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28668684" sideWeight="0.5308311" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.9415292" sideWeight="0.5308311" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32446808" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25816485" sideWeight="0.42519686" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CVS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2060,6 +2034,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920355" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740214" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2112,77 +2087,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/think_in_java/generic/Log4jTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="693">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/think_in_java/generic/Log4jTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="546">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/think_in_java/generic/Log4jTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="462">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="651">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="462">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first/singleton/lazy/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1743">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/think_in_java/enumerated/AlarmPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="294">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/gen/com/example/myapp/BuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/project.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -2190,27 +2094,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/ThirdActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="483">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/gen/com/example/myapp/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/gen/com/example/myapp/Manifest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2229,12 +2116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="483">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#125#126#0" expanded="false" />
-            <element signature="e#157#158#0" expanded="false" />
-            <element signature="e#176#177#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2248,17 +2129,6 @@
             <element signature="e#341#342#0" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/res/layout/first_layout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3157895" vertical-offset="0" max-vertical-offset="357">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/DisplayMessageActivity.java">
@@ -2340,9 +2210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="567">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2377,22 +2244,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/SecondActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="525">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/FirstActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1313" max-vertical-offset="1680">
-          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/res/layout/normal_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0526314" vertical-offset="0" max-vertical-offset="357">
@@ -2415,33 +2266,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.1875" vertical-offset="0" max-vertical-offset="462">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="546">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/res/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="294">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/res/menu/main_activity_actions.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
@@ -2450,32 +2274,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.28125" vertical-offset="17" max-vertical-offset="504">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/src/com/example/activityLifeCycleTest/DialogActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="483">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2483,9 +2285,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="504">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2515,7 +2315,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.625" vertical-offset="146" max-vertical-offset="609">
+        <state vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="609">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
@@ -2529,10 +2329,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1953">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding>
-            <element signature="e#1026#1264#0" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-            <element signature="e#1315#1553#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2547,7 +2344,7 @@
     </entry>
     <entry file="jar://C:/My Program Files/Develope Tools/guava/guava-18.0-sources.jar!/com/google/common/base/Absent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-42.84" vertical-offset="0" max-vertical-offset="1323">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1323">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding>
             <element signature="e#2452#2453#0" expanded="true" />
@@ -2558,17 +2355,219 @@
     </entry>
     <entry file="jar://C:/My Program Files/Develope Tools/guava/guava-18.0-javadoc.jar!/overview-tree.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="84.0" vertical-offset="2331" max-vertical-offset="18858">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2331" max-vertical-offset="18858">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/gen/com/example/myapp/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/FirstActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/ThirdActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="441">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/SecondActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/res/layout/first_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.90625" vertical-offset="0" max-vertical-offset="357">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="294">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="987">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6347826" vertical-offset="853" max-vertical-offset="1428">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1491">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#467#485#0" expanded="true" />
+            <element signature="e#600#618#0" expanded="true" />
+            <element signature="e#1996#2036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.25" vertical-offset="0" max-vertical-offset="567">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/res/layout/title.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3125" vertical-offset="0" max-vertical-offset="861">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="903">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/com/example/myapp/TitleLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="966">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#732#894#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#935#1140#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.21875" vertical-offset="0" max-vertical-offset="357">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/gen/com/example/ListViewTest/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="148" max-vertical-offset="588">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/res/layout/fruit_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.90625" vertical-offset="0" max-vertical-offset="483">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/FruitAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="819" max-vertical-offset="1407">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewTest/src/com/example/ListViewTest/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.455" vertical-offset="441" max-vertical-offset="1260">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#466#0" expanded="true" />
+            <element signature="e#1131#1456#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2627,11 +2626,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>myapp</last-edited>
+          <last-edited>ListViewTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.34183082" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

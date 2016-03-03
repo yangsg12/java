@@ -32,6 +32,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.apache.struts:struts2-core:2.3.20" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate:hibernate-core:4.3.7.Final" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.57" level="application_server_libraries" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8" level="application_server_libraries" />
   </component>
 </module>

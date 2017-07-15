@@ -1,6 +1,5 @@
 <component name="libraryTable">
-  <library name="Struts 2-2.3.16.1" type="struts2">
-    <properties version="2.3.16.1" />
+  <library name="Struts 2-2.3.16.1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/struts2/lib/ognl.jar!/" />
       <root url="jar://$PROJECT_DIR$/struts2/lib/commons-fileupload.jar!/" />

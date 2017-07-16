@@ -35,650 +35,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772eeac8-ad2b-4f36-866c-8abb0b093f03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/springMVC.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/web/WEB-INF/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/web/WEB-INF/dispatcher-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activityLifeCycleTest/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/BondedHashSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/ImprovedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/ListHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/OutOfTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/Preloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/PreloaderTest.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/ProductInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/TestHarness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/blocking_queue/FileCrawler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/blocking_queue/Indexer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/server/LifeCycleWebServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/server/SingleThreadServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/server/TaskExecutionWebServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/server/ThreadPerTaskExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_practise/server/WithInThreadExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ctolib/comparaotr/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_8_0_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_33.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__opensymphony_sitemesh_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_config_browser_plugin_2_3_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_sitemesh_plugin_2_3_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_envers_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_infinispan_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_osgi_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_proxool_4_3_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_commons_6_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_infinispan_infinispan_core_6_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_3_18_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_3_18_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jgroups_jgroups_3_4_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_compendium_4_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_core_4_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rhq_helpers_rhq_pluginAnnotations_3_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_portlet_4_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__proxool_proxool_0_8_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__uk_ltd_getahead_dwr_1_1_beta_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/jdbc/PropertiesUtil.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/jdbc/PropertiesUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/Book.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/Book.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/BookInRecord.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/BookInRecord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/BookSaleRecord.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/BookSaleRecord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/Concern.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/Concern.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/InRecord.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/InRecord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/SaleRecord.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/SaleRecord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/Type.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/Type.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/book_manage/vo/ValueObject.class" afterPath="$PROJECT_DIR$/out/production/java/book_manage/vo/ValueObject.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/Bool.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/Bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/DateExample.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/DateExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/DateExample2.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/DateExample2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/DateExample3.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/DateExample3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/DateExample4.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/DateExample4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/DrawLinePanel.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/DrawLinePanel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/HappyFace.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/HappyFace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/HelloDate.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/HelloDate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/Node.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/Opration.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/Opration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/OprationFactory.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/OprationFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/ShowProperties.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/ShowProperties.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/StaticTest.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/StaticTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/ThreadScheduler.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/ThreadScheduler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Bucket.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Bucket.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/BucketBallGame$TransferThread.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/BucketBallGame$TransferThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/BucketBallGame.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/BucketBallGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Buyer.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Buyer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/CollectionAlgorithms.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/CollectionAlgorithms.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Consumer.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ConsumerN.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ConsumerN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ControlledPrimeNumberGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ControlledPrimeNumberGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/LazyWorker.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/LazyWorker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/LuckyNumberGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/LuckyNumberGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Producer.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ProducerConsumerGame.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ProducerConsumerGame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ProducerN.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/ProducerN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Seller.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/Seller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/StockExchange.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/StockExchange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/collecitons/WorkThread.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/collecitons/WorkThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/com/java/log4j/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/java/com/java/log4j/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Calculator.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Calculator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/DateSourceLoader.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/DateSourceLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/ExceptionHandler.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/ExceptionHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/ExceptionHandlerMain.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/ExceptionHandlerMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/FileClock.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/FileClock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/FileMain.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/FileMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/MainSetPriority.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/MainSetPriority.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/PrimeGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/PrimeGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Task.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/WriterTask.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/WriterTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/callable/AnnualSaleCalc$Summer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/callable/AnnualSaleCalc$Summer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/callable/AnnualSaleCalc.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/callable/AnnualSaleCalc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/Buyer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/Buyer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/EnhancedStockExchange.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/EnhancedStockExchange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/Seller.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/countDownLatch/Seller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Grouper.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Grouper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Horse.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Horse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/HorseRace$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/HorseRace$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/HorseRace.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/HorseRace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/MatrixMock.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/MatrixMock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc$TermCalc.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc$TermCalc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/NatureLogCalc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Result.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Search.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/cyclicBarrier/Search.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Consumer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Consumer1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Consumer1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Corn.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Corn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Producer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Producer1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/Producer1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/ProductExchanger.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/exchanger/ProductExchanger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/FileSearch.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/FileSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$Horse.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$Horse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$RaceMonitor.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace$RaceMonitor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/HorseRace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/MyPhaser.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/MyPhaser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/Student.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/phaser/myphaser/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Bank$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Bank$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Bank.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Bank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Job.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Job.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/PrintQueue.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/PrintQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Teller.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/semaphore/Teller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/Participant.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/Participant.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/VideoConference.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/syn_utilities/waitMultiEvents/VideoConference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/Hello.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/Hello.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Account.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Account.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Bank.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Bank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Company.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Company.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/block/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Consumer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/EventStorage.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/EventStorage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Producer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Buffer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Buffer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Consumer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/FileMock.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/FileMock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Producer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/conditions/multi_conditions/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/PriceInfo.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/PriceInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Reader.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Reader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Writer.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/data_access_lock/Writer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/Job.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/Job.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/PrintQueue.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/fair/PrintQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/Job.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/Job.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/PrintQueue.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/lock/PrintQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/Cinema.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/Cinema.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/TicketsOffice1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/TicketsOffice1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/TicketsOffice2.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/synchronization/method/TicketsOffice2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/EvilThread.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/EvilThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/MultipleServices$Exp.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/MultipleServices$Exp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/MultipleServices.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/MultipleServices.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/ParalleMergeSort$SortTask.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/ParalleMergeSort$SortTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/ParalleMergeSort.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/ParalleMergeSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/StockOrderProcessor$OrderExecutor.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/StockOrderProcessor$OrderExecutor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/StockOrderProcessor.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/StockOrderProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner$2.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/VirusScanner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Result.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Task.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/all_results/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/TaskValidator.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/TaskValidator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/UserValidator.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/first_result/UserValidator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/retrun_result/FactrialCal.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/retrun_result/FactrialCal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/retrun_result/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/retrun_result/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Server.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Server.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Task.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_excutors/thread_pool_executor/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/MyThreadFactory.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/MyThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/Task.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_factory/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/Result.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/Result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/SearchTask.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/thread_group/SearchTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/Core.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/Core.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/SafeTask$1.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/SafeTask$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/SafeTask.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/SafeTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/UnsafeTask.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/threadlocal/UnsafeTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/Main.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/MyThreadGroup.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/MyThreadGroup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/Task.class" afterPath="$PROJECT_DIR$/out/production/java/concorrency_cookbook/uncaught_exceptions/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/Duck.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/FlyBehavior.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/FlyBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/MiniDuck$1.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/MiniDuck$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/MiniDuck.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/MiniDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/Quack.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/Quack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/QuackBehavior.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/QuackBehavior.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/QuackMute.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/QuackMute.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/Squeak.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/Squeak.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/WeatherData.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/aop/Calculator.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/aop/Calculator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/aop/CalculatorImpl.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/aop/CalculatorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/aop/SomeHandler.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/aop/SomeHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/factory/Client.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/factory/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/factory/Factory.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/factory/Factory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/factory/IFactory.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/factory/IFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/factory/IProduct.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/factory/IProduct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/factory/Product.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/factory/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/singleton/Singleton.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/singleton/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/head_first/singleton/lazy/Singleton.class" afterPath="$PROJECT_DIR$/out/production/java/head_first/singleton/lazy/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/AccuratelyFloat.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/AccuratelyFloat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/ArrayRowColumnSwap.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/ArrayRowColumnSwap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/Example.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/Example.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/FileCreate.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/FileCreate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/FileWriter.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/FileWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/InentAddressDemo.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/InentAddressDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/InputCode.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/InputCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/LeapYear.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/LeapYear.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/LeftMove.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/LeftMove.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/MultiplicationTable.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/MultiplicationTable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/PairCheck.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/PairCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/PrintErrorAndDebug.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/PrintErrorAndDebug.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/RedirectOutputStream.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/RedirectOutputStream.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/ServerSocketDemo.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/ServerSocketDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/SocketDemo.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/SocketDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/YangHuiTriangle.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/YangHuiTriangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/chatroom/Client$1.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/chatroom/Client$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/chatroom/Client.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/chatroom/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/chatroom/ServerProcess$write_Thread.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/chatroom/ServerProcess$write_Thread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/chatroom/ServerProcess.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/chatroom/ServerProcess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/chatroom/SocketManager.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/chatroom/SocketManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/multicast/Client.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/multicast/Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/j1200/multicast/Weather.class" afterPath="$PROJECT_DIR$/out/production/java/j1200/multicast/Weather.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/security/KeyGenerate.class" afterPath="$PROJECT_DIR$/out/production/java/security/KeyGenerate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/socket/ClientThreadSocket.class" afterPath="$PROJECT_DIR$/out/production/java/socket/ClientThreadSocket.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/socket/MultiSocketClient.class" afterPath="$PROJECT_DIR$/out/production/java/socket/MultiSocketClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/socket/ServeOneSocket.class" afterPath="$PROJECT_DIR$/out/production/java/socket/ServeOneSocket.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ADaemon.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ADaemon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accessor.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$Modifier.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$Modifier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$Reader.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator$Reader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Accumulator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo$2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ActiveObjectDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Assembler.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Assembler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AtomicTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AtomicTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AttemptLock$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AttemptLock$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AttemptLock.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/AttemptLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BaseLine.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BaseLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BasicThreads.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BasicThreads.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BlockMutex.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/BlockMutex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocked2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocked2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocked3.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocked3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocker.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Blocker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Butter.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Butter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CachedThreadPool.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CachedThreadPool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CallableDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CallableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CaptureUncaughtException.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CaptureUncaughtException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Car.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CarBuilder.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CarBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CarQueue.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CarQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ChassisBuilder.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ChassisBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CheckoutTask.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CheckoutTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Chef.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Chef.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Chopstick.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Chopstick.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CircularSet.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CircularSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CloseResource.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CloseResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CopyOnWriteArrayListTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CopyOnWriteArrayListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Count.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Count.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CountDownLatchDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CountDownLatchDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CriticalSection.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/CriticalSection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Customer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Customer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Daemon.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Daemon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonFromFactory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonFromFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonSpawn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonSpawn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonThreadFactory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Daemons.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Daemons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonsDontRunFinally.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DaemonsDontRunFinally.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DeadlockingDiningPhilosophers.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DeadlockingDiningPhilosophers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DriveTrainRobot.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/DriveTrainRobot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Eater.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Eater.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EndSentinel.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EndSentinel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EngineRobot.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EngineRobot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Entrance.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Entrance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenChecker.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorAtomic.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorAtomic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorMutex.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorMutex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorSyn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/EvenGeneratorSyn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExceptionThread.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExceptionThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExceptionThread2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExceptionThread2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerConsumer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerConsumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerProducer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ExchangerProducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Fat.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Fat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/FixedDiningPhilosophers.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/FixedDiningPhilosophers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Food.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Food.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Bell.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Bell.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$CollectData.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$CollectData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$DataPoint.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$DataPoint.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$LightOff.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$LightOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$LightOn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$LightOn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Terminate$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Terminate$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Terminate.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$Terminate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$ThermostatDay.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$ThermostatDay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$ThermostatNight.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$ThermostatNight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$WaterOff.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$WaterOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$WaterOn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler$WaterOn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/GreenhouseScheduler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/HandlerThreadFactory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/HandlerThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IOBlocked.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IOBlocked.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Incrementable.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Incrementable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable1$Inner.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable1$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable2$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerRunnable2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread1$Inner.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread1$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread2$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InnerThread2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntegerTestAtomic$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntegerTestAtomic$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntegerTestAtomic.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/IntegerTestAtomic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Interrupting.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Interrupting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Interrupting2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Interrupting2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InterruptingIdiom.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/InterruptingIdiom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Jammer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Jammer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Joiner.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Joiner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Joining.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Joining.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LiftOff.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LiftOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LiftOffRunner.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LiftOffRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListComparisons.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListComparisons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest$Reader.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest$Reader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest$Writer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest$Writer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LockTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LockTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LockingTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/LockingTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MainThread.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MainThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MapComparisons.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MapComparisons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MapTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MoreBasicThreads.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MoreBasicThreads.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MultiLock$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MultiLock$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MultiLock.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MultiLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MyUncaughtExceptionHandler.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/MyUncaughtExceptionHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NIOBlocked.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NIOBlocked.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NIOInterruption.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NIOInterruption.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NaiveExceptionHandling.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NaiveExceptionHandling.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NeedsCleanup.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NeedsCleanup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NotifyVsNotifyAll$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NotifyVsNotifyAll$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NotifyVsNotifyAll.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/NotifyVsNotifyAll.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Order.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Order.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/OrnamentalGarden.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/OrnamentalGarden.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pair$PairValueNotEqualException.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pair$PairValueNotEqualException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pair.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairCheck.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManager2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManipulator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PairManipulator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Philosopher.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Philosopher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PipedIO.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PipedIO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Plate.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Plate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pool.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Pool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizeTask.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizeTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizeTaskProducer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizeTaskProducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizedTaskConsumer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PrioritizedTaskConsumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PriorityBlockingQueueDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/PriorityBlockingQueueDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterList.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$Reader.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$Reader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$Writer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest$Writer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ReaderWriterListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Receiver.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Receiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Reporter.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Reporter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ResponsiveUI.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ResponsiveUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Restaurant.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Restaurant.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/RestaurantWithQueues.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/RestaurantWithQueues.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Robot.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Robot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/RobotPool.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/RobotPool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SelfManaged.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SelfManaged.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SemaphoreDemo$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SemaphoreDemo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SemaphoreDemo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SemaphoreDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Sender.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Sender.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SerialNumCheck$SerialCheck.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SerialNumCheck$SerialCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SerialNumCheck.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SerialNumCheck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleDaemons.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleDaemons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleMicroBenchmark.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleMicroBenchmark.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimplePriorities.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimplePriorities.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleThread.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SimpleThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SingleThreadExecutor.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SingleThreadExecutor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SleepBlocked.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SleepBlocked.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Sleeper.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Sleeper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SleepingTask.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SleepingTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynBlocked$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynBlocked$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynBlocked.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynBlocked.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizationComparisons.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizationComparisons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizedArrayListTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizedArrayListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizedTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizedTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizingTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/SynchronizingTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Task.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Task2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Task2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TaskPortion.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TaskPortion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TaskWithResult.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TaskWithResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TestBlockingQueues.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/TestBlockingQueues.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Tester$TestTask.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Tester$TestTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Tester.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Tester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadLocalVariableHolder$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadLocalVariableHolder$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadLocalVariableHolder.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadLocalVariableHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadMethod$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadMethod$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadMethod.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadMethod.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadVariations.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ThreadVariations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toast$Status.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toast$Status.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toast.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ToastOMatic.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ToastOMatic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ToastQueue.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/ToastQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toaster.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/Toaster.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/UnresponsiveUI.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/UnresponsiveUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WaitPerson.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WaitPerson.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WaitingTask.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WaitingTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WheelRobot.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/WheelRobot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/BankTellerSimulation.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/BankTellerSimulation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/Customer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/Customer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/CustomerGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/CustomerGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/CustomerLine.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/CustomerLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/Teller.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/Teller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/TellerManager.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/bank_teller/TellerManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Chef.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Chef.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Meal.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Meal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Restaurant.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/Restaurant.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/WaitPerson.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/restaurant/WaitPerson.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/Car.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/WaxOff.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/WaxOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/WaxOn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/WaxOn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/Waxmatic2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxmatic2/Waxmatic2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/Car.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOMatic.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOMatic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOff.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOn.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/concurrency/waxomatic/WaxOn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Activity.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/AlarmPoints.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/AlarmPoints.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Burrito.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Burrito.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$3.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash$Cycle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CarWash.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CartoonCharacter.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/CartoonCharacter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Command.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Command.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumClass.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumImpl.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps$2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumMaps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumSets.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/EnumSets.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Explore.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Explore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$1$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Address.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Address.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$GeneralDelivery.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$GeneralDelivery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Readability.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Readability.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$ReturnAddress.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$ReturnAddress.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Scannability.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail$Scannability.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Mail.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/NonEnum.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/NonEnum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/OzWitch.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/OzWitch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler$2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice$MailHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/PostOffice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/RandomTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/RandomTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Reflection.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Reflection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Search.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Search.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security$BOND.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security$BOND.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security$Stock.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security$Stock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory$Security.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SecurityCategory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Shrubbery.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Shrubbery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Signal.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Signal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SpaceShip.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/SpaceShip.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Spiciness.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/Spiciness.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/TrafficLight$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/TrafficLight$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/TrafficLight.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/TrafficLight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/UpcastEnum.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/UpcastEnum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Course.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Course.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food$Appetizer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food$Appetizer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food$MainCourse.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food$MainCourse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Food.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food$Appetizer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food$Appetizer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food$MainCourse.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food$MainCourse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2$Food.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/Meal2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/TypeOfFood.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/enumerated/menu/TypeOfFood.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/HoldItem.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/HoldItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/InheritBounds.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/InheritBounds.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Lists.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Lists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest2.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest3.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/generic/Log4jTest3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/AtUnit$TestMethods.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/AtUnit$TestMethods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/AtUnit.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/AtUnit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/ClassNameFinder.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/ClassNameFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/Test.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestObjectCleanup.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestObjectCleanup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestObjectCreate.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestObjectCreate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestProperty.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/atunit/TestProperty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/simple/List.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/simple/List.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/simple/Vector.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/simple/Vector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/BasicGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/BasicGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/BinaryFile.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/BinaryFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CollectionData.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CollectionData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ContainerMethodDifferences.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ContainerMethodDifferences.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ConvertTo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ConvertTo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Boolean.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Boolean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Byte.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Byte.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Character.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Character.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Double.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Double.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Float.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Float.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Integer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Long.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Long.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Short.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$Short.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$String.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator$String.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingIntegerList.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingIntegerList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingMapData$Entry.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingMapData$Entry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingMapData.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/CountingMapData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$Entry.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$Entry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$EntrySet$Iter.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$EntrySet$Iter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$EntrySet.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap$EntrySet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries$FlyweightMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Countries.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/DaemonThreadFactory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/DaemonThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/DaemonThreadPoolExecutor.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/DaemonThreadPoolExecutor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Deque.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Deque.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory$TreeInfo.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory$TreeInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Directory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Enums.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Enums.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/FiveTuple.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/FiveTuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/FourTuple.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/FourTuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Generated.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Generated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Generator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Generator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Hex.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Hex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/MapData.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/MapData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/New.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/New.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Null.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Null.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/OSExecute.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/OSExecute.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/OSExecuteException.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/OSExecuteException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/PPrint.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/PPrint.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Pair.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Pair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Print.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Print.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles$Strategy.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles$Strategy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ProcessFiles.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Boolean.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Boolean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Byte.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Byte.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Character.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Character.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Double.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Double.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Float.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Float.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Integer.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Long.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Long.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Short.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$Short.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$String.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator$String.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/RandomGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Range.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Range.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Sets.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Sets.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Stack.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Stack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/SwingConsole$1.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/SwingConsole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/SwingConsole.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/SwingConsole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TaskItem.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TaskItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TaskManager.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TaskManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TextFile.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TextFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ThreeTuple.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/ThreeTuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Tuple.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/Tuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TwoTuple.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TwoTuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TypeCounter.class" afterPath="$PROJECT_DIR$/out/production/java/think_in_java/net/mindview/util/TypeCounter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/basic_struts_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/basic_struts_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_16_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/AccoutingVol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/CountTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/FairLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/IntLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/JoinMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/ReadWriteDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/ThreadGroupName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/ThreadPoolDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/TimeLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/concorrency_design/TryLock.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_struts/basic_struts.iml" afterPath="$PROJECT_DIR$/basic_struts/basic_struts.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.iml" afterPath="$PROJECT_DIR$/java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/struts2/struts2.iml" afterPath="$PROJECT_DIR$/struts2/struts2.iml" />
     </list>
     <list id="dc2809e5-f20b-440b-a801-19838e988297" name="Rejected commit: Default" comment="在无锡图书馆敲的，还他妈下雪了." />
     <ignored path="java.iws" />
@@ -887,115 +257,119 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Preloader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concorrency_practise/Preloader.java">
+      <file leaf-file-name="AccoutingVol.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/AccoutingVol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="94">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#595#596#0" expanded="false" />
-                <element signature="e#625#626#0" expanded="false" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java.iml">
+      <file leaf-file-name="IntLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/IntLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+            <state relative-caret-position="274">
+              <caret line="53" column="70" lean-forward="false" selection-start-line="53" selection-start-column="70" selection-end-line="53" selection-end-column="70" />
+              <folding>
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/TimeLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TryLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/TryLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-410">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding>
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FairLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/FairLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/DateExample.java">
+      <file leaf-file-name="ReadWriteDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/ReadWriteDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="400">
+              <caret line="76" column="46" lean-forward="false" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/log4j/HelloWorld.java">
+      <file leaf-file-name="ThreadPoolDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/ThreadPoolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concorrency_design/CountTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-284">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#741#752#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-982">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ctolib/comparaotr/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#1673#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreloaderTest.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concorrency_practise/PreloaderTest.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskExecutionWebServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concorrency_practise/server/TaskExecutionWebServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="38" column="67" lean-forward="false" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#701#702#0" expanded="false" />
-                <element signature="e#766#767#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BondedHashSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concorrency_practise/BondedHashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concorrency_practise/ProductInfo.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -1046,17 +420,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c5_fork_join/coustom_task/MyWorkTask.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c5_fork_join/coustom_task/Task.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/MyPoriorityTransferQueue.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/MyPriorityTransferQueue.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/monitor_executor/Task.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/log/MyFormatter.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_practise/SafePoint.java" />
-        <option value="$PROJECT_DIR$/src/concorrency_practise/BetterVector.java" />
-        <option value="$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/SingletonThread.java" />
-        <option value="$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/thread_and_effective/Singleton.java" />
         <option value="$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/inner_class/Singleton.java" />
         <option value="$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/enum_singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/concorrency_practise/StatelessFactor.java" />
@@ -1097,6 +460,17 @@
         <option value="$PROJECT_DIR$/java.iml" />
         <option value="$PROJECT_DIR$/src/concorrency_practise/PreloaderTest.groovy" />
         <option value="$PROJECT_DIR$/src/ctolib/comparaotr/Person.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/JoinMain.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/ThreadGroupName.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/AccoutingVol.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/IntLock.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/TimeLock.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/TryLock.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/FairLock.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/ReadWriteDemo.java" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/concorrency_design/CountTask.java" />
       </list>
     </option>
   </component>
@@ -1192,9 +566,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="117" />
-    <option name="width" value="1236" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1327,6 +702,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1367,18 +743,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="comparaotr" />
+              <option name="myItemId" value="concorrency_design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
@@ -1424,6 +799,9 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="Push.Settings">
     <excluded-roots>
@@ -1456,15 +834,15 @@
       <recent name="com.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Person">
-    <configuration default="false" name="MonitorExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
+    <configuration default="false" name="TimeLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="concorrency_cookbook.c7.transfer_queue.monitor_executor.*" />
+          <option name="PATTERN" value="concorrency_design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="concorrency_cookbook.c7.transfer_queue.monitor_executor.MonitorExecutor" />
+      <option name="MAIN_CLASS_NAME" value="concorrency_design.TimeLock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1475,18 +853,16 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="java" />
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CustomLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TryLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="concorrency_cookbook.c7.transfer_queue.log.*" />
+          <option name="PATTERN" value="concorrency_design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="concorrency_cookbook.c7.transfer_queue.log.CustomLog" />
+      <option name="MAIN_CLASS_NAME" value="concorrency_design.TryLock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1497,18 +873,16 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="java" />
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="dynomic_proxy.*" />
+          <option name="PATTERN" value="concorrency_design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dynomic_proxy.Client" />
+      <option name="MAIN_CLASS_NAME" value="concorrency_design.FairLock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1517,18 +891,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ibm_developer" />
+      <module name="java" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ReadWriteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="producer_customer.*" />
+          <option name="PATTERN" value="concorrency_design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="producer_customer.Demo" />
+      <option name="MAIN_CLASS_NAME" value="concorrency_design.ReadWriteDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1537,18 +911,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ibm_developer" />
+      <module name="java" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctolib.comparaotr.*" />
+          <option name="PATTERN" value="concorrency_design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctolib.comparaotr.Person" />
+      <option name="MAIN_CLASS_NAME" value="concorrency_design.ThreadPoolDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1577,6 +951,34 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1687,6 +1089,9 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -1822,6 +1227,12 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -2373,19 +1784,19 @@
       <item index="0" class="java.lang.String" itemvalue="Jetty Server.Jetty" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0.57" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MonitorExecutor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CustomLog" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Person" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TimeLock" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TryLock" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FairLock" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ReadWriteDemo" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ThreadPoolDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Person" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CustomLog" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MonitorExecutor" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadPoolDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReadWriteDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FairLock" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TryLock" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TimeLock" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2620,7 +2031,8 @@
       <workItem from="1487773620353" duration="25000" />
       <workItem from="1487774684726" duration="676000" />
       <workItem from="1487858179441" duration="1089000" />
-      <workItem from="1500084563750" duration="239000" />
+      <workItem from="1500084563750" duration="1637000" />
+      <workItem from="1500095366730" duration="13073000" />
     </task>
     <task id="LOCAL-00001" summary="up to Github.">
       <created>1422361472747</created>
@@ -2741,11 +2153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1469975839864</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2017年7月15日 10:14:13 只好这样了">
+      <created>1500084904466</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1500084904466</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="559994000" />
+    <option name="totallyTimeSpent" value="574465000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -2768,36 +2187,40 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="0" width="1236" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2542662" sideWeight="0.46701846" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4449838" sideWeight="0.50150603" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15306123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15306123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46067417" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39823008" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27022654" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28144655" sideWeight="0.49849397" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2380546" sideWeight="0.47572815" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2372449" sideWeight="0.52427185" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21104388" sideWeight="0.52427185" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25816485" sideWeight="0.42519686" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -2805,19 +2228,15 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.39943343" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24933334" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27022654" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2688356" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CVS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39823008" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41786283" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2815534" sideWeight="0.49849397" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32446808" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -2855,7 +2274,8 @@
     <MESSAGE value="2015年3月27日 17:44:22 图书馆" />
     <MESSAGE value="2016年3月3日 22:24:51 我慌了，以后要怎么办？" />
     <MESSAGE value="2016年7月31日 22:36:27 以后要怎么办" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016年7月31日 22:36:27 以后要怎么办" />
+    <MESSAGE value="2017年7月15日 10:14:13 只好这样了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017年7月15日 10:14:13 只好这样了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2876,90 +2296,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/monitor_executor/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="56" column="49" lean-forward="false" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concorrency_cookbook/c7/transfer_queue/log/MyFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="50" column="9" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concorrency_practise/SafePoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concorrency_practise/BetterVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concorrency_cookbook/uncaught_exceptions/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/SingletonThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/thread_and_effective/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/inner_class/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Java/demo/nio/zipfs/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11881">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/head_first_design_pattern/decrator/singleton/enum_singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concorrency_practise/StatelessFactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crazy_java/src/Log4jTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -3245,15 +2581,133 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#341#342#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ctolib/comparaotr/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="64" />
+        <state relative-caret-position="259">
+          <caret line="48" column="64" lean-forward="false" selection-start-line="48" selection-start-column="64" selection-end-line="48" selection-end-column="64" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/JoinMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/ThreadGroupName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/AccoutingVol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/IntLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="53" column="70" lean-forward="false" selection-start-line="53" selection-start-column="70" selection-end-line="53" selection-end-column="70" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/TimeLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/TryLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/FairLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/ReadWriteDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="76" column="46" lean-forward="false" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activityLifeCycleTest/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-982">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concorrency_design/CountTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#741#752#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3311,7 +2765,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android SDK</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
